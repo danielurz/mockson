@@ -1,0 +1,35 @@
+{
+  "clientes": [
+    {
+      "id": 3,
+      "nombre": "Josue",
+      "telefono": 31983913,
+      "email": "josue@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Pedro ACTU",
+      "telefono": "1398198938",
+      "email": "pedro@juan.com",
+      "empresa": "Codigo Con Juan",
+      "notas": "Hola",
+      "id": 5
+    },
+    {
+      "nombre": "Daniel",
+      "empresa": "Daniel Urzola",
+      "email": "daniel.urzola96@gmail.com",
+      "telefono": "3016500855",
+      "notas": "Hola",
+      "id": 8
+    },
+    {
+      "nombre": "Pago de Netflix",
+      "telefono": "3016500855",
+      "email": "daniel.urzola96@gmail.com",
+      "empresa": "Daniel Urzola",
+      "notas": "lblb",
+      "id": 11
+    }
+  ]
+}
